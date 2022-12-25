@@ -2,6 +2,7 @@
 --[[
 -- > Commands:
 
+ws / walkspeed (NUMBER)
 k / kill (USER)
 to / goto (USER)
 wl / whitelist (USER)
