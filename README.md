@@ -2,6 +2,8 @@
 --[[
 -- > Commands:
 
+prefix: -
+
 ws / walkspeed (NUMBER)
 k / kill (USER)
 to / goto (USER)
